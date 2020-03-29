@@ -9,7 +9,7 @@ my $path = "";
 $path = shift;
 print "$path/vidlist.txt\n";
 
-open DICT, "< C:/Users/anfis/OneDrive/Documents/CreateVideoInfo/women_sabre.txt" or die;
+open DICT, "< C:/Users/anfis/OneDrive/Documents/CreateVideoInfo/men_sabre.txt" or die;
 open COUNTRIES, "< C:/Users/anfis/OneDrive/Documents/CreateVideoInfo/countries.txt" or die;
 open VIDLIST, "< $path/vidlist.txt" or die;
 open INFO, "> $path/info2.txt" or die;

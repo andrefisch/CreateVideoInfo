@@ -1,0 +1,95 @@
+Yakimenko;Alexey Yakimenko of Russia
+Gu;Gu Bon Gil of South Korea
+Dolniceanu;Tiberu Dolniceanu of Romania
+Szilagyi;Aron Szilagyi of Hungary
+Kim;Kim Junghwan of South Korea
+Hartung;Max Hartung of Germany
+Homer;Daryl Homer of USA
+Montano;Aldo Montano of Italy
+Ibragimov;Kamil Ibragimov of Russia
+Kovalev;Nikolay Kovalev of Russia
+Limbach;Nicolas Limbach of Germany
+Abedini;Mojtaba Abedini of Itan
+Curatoli;Luca Curatoli of Italy
+Rousset;Nicolas Rousset of France
+Szabo;Matyas Szabo of Germany
+Anstett;Vincent Anstett of France
+Dershwitz;Eli Dershwitz of USA
+Occhiuzzi;Diego Occhiuzzi of Italy
+Wagner;Peter Wagner of Germany
+Reshetnikov;Veniamin Reshetnikov of Russia
+Decsi;Tamas Decsi of Hungary
+Agresta;Renzo Agresta of Brazil
+Buikevich;Aliaksandr Buikevich of Belarus
+Yagodka;Andriy Yagodka of Ukraine
+Berre';Enrico Berre' of Italy
+Berre;Enrico Berre' of Italy
+Polossifakis;Joe Polossifakis of Canada
+Pakdaman;Ali Pakdaman of Iran
+Amer;Mohamed Amer of Egypt
+Szatmari;Andras Szatmari of Hungary
+Spear;Jeff Spear of USA
+Apithy;Bolade Apithy of France
+Badea;Alin Badea of Romania
+VanHolsbeke;Seppe Van Holsbeke of Belgium
+Iliasz;Nikolasz Iliasz of Hungary
+Elsissy;Ziad Elsissy of Egypt
+Samele;Luigi Samele of Italy
+Rahbari;Mohammad Rahbari of Iran
+Oh;Oh Sanguk of South Korea
+Bustamante;Ricardo Alberto Bustamante of Argentina
+Bazadze;Sandro Bazadze of Georgia
+Sun;Sun Wei of China
+Samandi;Hichem Samandi of Tunisia
+Xu;Xu Yingming of China
+Mokretcov;Ilya Mokretcov
+Miracco;Luigi Miracco of Italy
+Medard;Julien Medard of France
+Teodosiu;Iulian Teodosiu of Romania
+Huebers;Richi Huebers of Germany
+Murolo;Massimiliano Murolo of Italy
+Kim2;Kim Junho of South Korea
+Souders;Pete Souders of USA
+Repetti;Giovanni Repetti of Italy
+Casares;Fernando Casares of Spain
+Tokunan;Tokunan Kenta of Japan
+Honeybone;James Honeybone of Great Britain
+Pellegrini;Alberto Pellegrini of Italy
+Huebner;Bjoern Huebner of Germany
+Nuccio;Riccardo Nuccio of Italy
+Lambert;Maxence Lambert of France
+Motorin;Ilya Motorin of Russia
+Shachanin;Siarhei Shachanin of Belarus
+Willau;Mathias Willau of Austria
+Savich;Boris Savich of Russia
+Pundyk;Dmytro Pundyk of Ukraine
+Gemesi;Csanad Gemesi of Hungary
+Won;Won Junho of South Korea
+Moreno;Pablo Moreno of Spaine
+Galatanu;Ciprian Galatanu of Romania
+Lam;Hin Chung Lam of Hong Kong
+Koniusz;Marcin Koniusz of Poland
+Danilenko;Dmitriy Danilenko of Russia
+Seitz;Tom Seitz of France
+Shimamura;Shimamura Tomohiro of Japan
+Tanaka;Shun Tanaka of Japan
+Fang;Fang Xin of China
+Gordon;Shaul Gordon of Canada
+Mackiewicz:Andrew Mackiewicz of USA
+Ha;Ha Hansol of South Korea
+Boyko;Dmytro Boyko of Ukraine
+Affede;Leonardo Affede of Italy
+Woog;Alexandre Woog of Israel
+Sung;Sung Junmo of South Korea
+Kindler;Max Kindler of Germany
+Skrodzki;Adam Skrodzki of Poland
+Pillet;Julien Pillet of France
+Foschini;Gabriele Foschini of Italy
+Trushakov;Alexander Trushakov of Russia
+Proskura;Nikita Proskura of Russia
+Zanin;Artem Zanin of Russia
+Pryiemka;Valery Pryiemka of Belarus
+Statsenko;Oleksiy Statsenko of Ukraine
+Schroedter;Robin Schroedter of Germany
+Escudero;Jorge Escudero of Spain
+Fischl;Andrew Fischl of USA

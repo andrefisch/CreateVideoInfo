@@ -1,0 +1,15 @@
+Tbilisi,Georgia
+Budapest,Hungary
+Boston,USA
+Chicago,USA
+New York,USA
+Amsterdam,Netherlands
+Istanbul,Turkey
+Padova,Italy
+Warsaw,Poland
+Copenhagen,Denmark
+Seoul,South Korea
+Madrid,Spain
+Moscow,Russia
+Rio de Janeiro,Brazil
+Athens,Greece

@@ -9,7 +9,7 @@ my $path = "";
 $path = shift;
 print "$path/vidlist.txt\n";
 
-open DICT, "< C:/Users/anfis/OneDrive/Documents/CreateVideoInfo/men_sabre.txt" or die;
+open DICT, "< C:/Users/anfis/OneDrive/Documents/CreateVideoInfo/sabre.txt" or die;
 open COUNTRIES, "< C:/Users/anfis/OneDrive/Documents/CreateVideoInfo/countries.txt" or die;
 open VIDLIST, "< $path/vidlist.txt" or die;
 open INFO, "> $path/info2.txt" or die;
@@ -77,7 +77,7 @@ print "\n\n$country\n\n\n";
 my @vidlist;
 my $line_num = 0;
 while ($line=<VIDLIST>) {
-	if (($line =~ /\.(avi|mp4)$/) == 1)
+	if (($line =~ /\.(wmv|avi|mp4)$/) == 1)
 	{
 		#only add to this array and increment the line number if
 		#it is an avi file
@@ -122,20 +122,21 @@ for (my $i = 0; $i < $size; $i++)
 		print "Matched: <$&>\n";
 		$last = $`;
 	}
-	elsif (($words[7] =~ /Partial/) == 1 )
+	elsif (($words[8] =~ /Partial/) == 1 )
 	{
-		$last = $words[6];
+		$last = $words[7];
 	}
 	else
 	{
-		$last = $words[6];
+		$last = $words[7];
 	}
 
 	# Title info for the videos
-	my $title = "$city World Cup SWS 2020 - $round - $words[2] $words[3] v $words[5] $last\n\n";
+	my $title = "$city Worlds SMS 2015 - $round - $words[2] $words[3] v $words[5] $last\n\n";
 
 	# Video info for the videos
-    my $info = "If you like what I do here, don't forget to subscribe! You can also help support my videos on Patreon and follow my Instagram account for daily content!\n\nhttps://www.patreon.com/CyrusofChaos\nhttps://www.instagram.com/cyrusofchaos/\n\nThis is a bout in the round of $round at the $tournament, a $category $gender\'s $weapon $type in $city, $country. $left_fencer is on the left and $right_fencer is on the right.\n\nI got this video from a stream on this channel:\n\nhttps://www.youtube.com/channel/UCRKcRBFMZyzW8Ko7qhI908Q\n\nAlso please enjoy a discount on all Radical Fencing merchandise thanks to my new partnership with them! Click the link or apply the code 'cyrus10' at checkout!\n\nhttps://radicalfencing.com/discount/cyrus10\n\n\n\n";
+    my $info = "If you like what I do here, don't forget to subscribe! You can also help support my videos on Patreon and follow my Instagram account for daily content!\n\nhttps://www.patreon.com/CyrusofChaos\nhttps://www.instagram.com/cyrusofchaos/\n\nThis is a bout in the round of $round at the $category $gender\'s $weapon $tournament in $city, $country. $left_fencer is on the left and $right_fencer is on the right.\n\nAlso please enjoy a discount on all Radical Fencing merchandise thanks to my new partnership with them! Click the link or apply the code 'cyrus10' at checkout!\n\nhttps://radicalfencing.com/discount/cyrus10\n\n\n\n";
+    #my $info = "If you like what I do here, don't forget to subscribe! You can also help support my videos on Patreon and follow my Instagram account for daily content!\n\nhttps://www.patreon.com/CyrusofChaos\nhttps://www.instagram.com/cyrusofchaos/\n\nThis is a bout in the round of $round at the $tournament, a $category $gender\'s $weapon $type in $city, $country. $left_fencer is on the left and $right_fencer is on the right.\n\nI got this video from a stream on this channel:\n\nhttps://www.youtube.com/channel/UCRKcRBFMZyzW8Ko7qhI908Q\n\nAlso please enjoy a discount on all Radical Fencing merchandise thanks to my new partnership with them! Click the link or apply the code 'cyrus10' at checkout!\n\nhttps://radicalfencing.com/discount/cyrus10\n\n\n\n";
 
 	print INFO "$title";
 	print INFO "$info";

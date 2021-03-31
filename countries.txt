@@ -13,4 +13,6 @@ Seoul,South Korea
 Madrid,Spain
 Moscow,Russia
 Rio de Janeiro,Brazil
+Kazan,Russia
+Doha,Qatar
 Athens,Greece

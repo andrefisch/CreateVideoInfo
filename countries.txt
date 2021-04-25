@@ -2,6 +2,7 @@ Antalya,Turkey
 Tbilisi,Georgia
 Budapest,Hungary
 Boston,USA
+Cairo,Egypt
 Chicago,USA
 New York,USA
 Amsterdam,Netherlands

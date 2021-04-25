@@ -9,7 +9,6 @@ my $path = "";
 $path = shift;
 print "$path/vidlist.txt\n";
 
-open DICT, "< C:/Users/anfis/Documents/CreateVideoInfo/foil.txt" or die;
 open COUNTRIES, "< C:/Users/anfis/Documents/CreateVideoInfo/countries.txt" or die;
 open VIDLIST, "< $path/vidlist.txt" or die;
 open INFO, "> $path/info2.txt" or die;
@@ -33,6 +32,28 @@ my $gender = <>;	    	#input this when running the script
 print "What weapon is fencing?: ";
 # 6 : set type of tournament
 my $weapon = <>;		#input this when running the script
+
+my $fla = uc(substr($category, 0, 1));
+my $flg = uc(substr($gender, 0, 1));
+my $flw = uc(substr($weapon, 0, 1));
+
+print "$fla$flg$flw";
+
+if (lc($flw) eq 'e')
+{
+    print("Opening the Epee dictionary");
+    open DICT, "< C:/Users/anfis/Documents/CreateVideoInfo/epee.txt" or die;
+}
+elsif (lc($flw) eq 'f')
+{
+    print("Opening the Foil dictionary");
+    open DICT, "< C:/Users/anfis/Documents/CreateVideoInfo/foil.txt" or die;
+}
+elsif (lc($flw) eq 's')
+{
+    print("Opening the Sabre dictionary");
+    open DICT, "< C:/Users/anfis/Documents/CreateVideoInfo/sabre.txt" or die;
+}
 
 my $country = "";	    #from countries dictionary using city
 my $round = "";		    #from list of files in directory
@@ -132,7 +153,7 @@ for (my $i = 0; $i < $size; $i++)
 	}
 
 	# Title info for the videos
-	my $title = "$city 2021 SMF - $round - $words[2] $words[3] v $words[5] $last\n\n";
+	my $title = "$city Worlds 2021 $fla$flg$flw - $round - $words[2] $words[3] v $words[5] $last\n\n";
 
 	# Video info for the videos
     my $info = "If you like what I do here, don't forget to subscribe! You can also help support my videos on Patreon and follow my Instagram account for daily content! You can also support me by buying a t-shirt from TeeSpring! You can check out my merch below the video info.\n\nhttps://www.patreon.com/CyrusofChaos\nhttps://www.instagram.com/cyrusofchaos/\n\nYou can also support me by buying a t-shirt from TeeSpring! You can check out my merch below the video info. Or at this link:\n\nhttps://cyrusofchaos-merch.creator-spring.com\n\nThis is a bout in the round of $round at the $category $gender\'s $weapon $tournament in $city, $country. $left_fencer is on the left and $right_fencer is on the right.\n\n";

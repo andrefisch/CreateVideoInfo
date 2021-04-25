@@ -1,9 +1,10 @@
 AFerjani;Ahmed Ferjani of Tunisia
-FFerjani;Fares Ferjani of Tunisia
 AMoataz;Adham Moataz of Egypt
 Abedini;Mojtaba Abedini of Itan
+Abzhal;Bexultan Abzhal of Khazakstan
 Affede;Leonardo Affede of Italy
 Agresta;Renzo Agresta of Brazil
+Akbarov;Murad Akbarov of Azerbaijan
 Alshamlan;Yousef Alshamlan of Kuwait
 Amer;Mohamed Amer of Egypt
 Anasiz;Muhammed Anasiz of Turkey
@@ -11,7 +12,10 @@ Anstett;Vincent Anstett of France
 Apithy;Bolade Apithy of France
 Archvadze;Vakhtangi Archvadze of Georgia
 Ashour;Omar Ashour of Egypt
+Aslan;Tolga Aslan of Turkey
 Ayala;Julian Ayala of Mexico
+Aymurtatov;Musa Aymuratov of Uzbekistan
+BBazadze;Beka Bazadze of Georgia
 Badea;Alin Badea of Romania
 Baher;Farzad Baher Aresbaran of Iran
 Ballorca;Fabien Ballorca of France
@@ -23,7 +27,9 @@ Berre';Enrico Berre' of Italy
 Berre;Enrico Berre' of Italy
 Bialecki;Cezary Bialecki of Poland
 Bibi;Elliott Bibi of France
+Bonsanto;Francesco Bonsanto of Italy
 Boyko;Dmytro Boyko of Ukraine
+Bravo;Inyaki Bravo of Spain
 Buikevich;Aliaksandr Buikevich of Belarus
 Burgunder;Quinten Burgunder of USA
 Bustamante;Ricardo Alberto Bustamante of Argentina
@@ -39,10 +45,13 @@ DArmiento;Francesco D'Armiento of Italy
 Dai;Dai Rui of China
 Danilenko;Dmitriy Danilenko of Russia
 Davydzenka;Anton Davydzenka of Belarus
+DeRidder;Arne De Ridder of Belgium
+DeRobbio;Francesco De Robbio of Croatia
 Deary;Will Deary of Great Britain
 Decsi;Tamas Decsi of Hungary
 Dershwitz;Eli Dershwitz of USA
 DiTella;Pascual Di Tella of Argentina
+Dinc;Efe Dinc of Turkey
 Dolniceanu;Tiberu Dolniceanu of Romania
 Dragomir;George Dragomir of Romania
 Dubarry;Baptiste Dubarry of France
@@ -51,6 +60,8 @@ Eftimie;Sorin Eftimie of Romania
 Elaraby;Mazen Elaraby of Egypt
 Elsissy;Ziad Elsissy of Egypt
 Escudero;Jorge Escudero of Spain
+Eshchanov;Allaniyaz Eshchanov of Uzbekistn
+FFerjani;Fares Ferjani of Tunisia
 Fang;Fang Xin of China
 Fernandez;Oscar Fernandez of Spain
 Fischl;Andrew Fischl of USA
@@ -60,16 +71,20 @@ Galatanu;Ciprian Galatanu of Romania
 Galgoczy;Tamas Galgoczy of Hungary
 Gemesi;Csanad Gemesi of Hungary
 Genjebaev;Pazibek Genjebaev of Uzbekistan
+Giakoumatos;Mario Giakoumatos of Greece
 Gionov;Dobrin Gionov of Belarus
+Goinho;Jose Godinho of Portugal
 Gordon;Shaul Gordon of Canada
 Gorski;Mateusz Gorski of Poland
 Gu;Gu Bon Gil of South Korea
 Gyorgy;Lehel Gyorgy of Hungary
 Ha;Ha Hansol of South Korea
 Hanceanu;Cosmin Hanceanu of Romania
+Harley;Colby Harley of USA
 Hartung;Max Hartung of Germany
 Homer;Daryl Homer of USA
 Honeybone;James Honeybone of Great Britain
+Hoshino;Hoshino Kento of Japan
 Hryciuk;Szymon Hryciuk of Poland
 Huebers;Richi Huebers of Germany
 Huebner;Bjoern Huebner of Germany
@@ -86,15 +101,17 @@ Kaiser;Balazs Kaiser of Hungary
 Kakauridze;Goga Kakauridze of Georgia
 Keita;Mamoudou Kieta of Senegal
 Kempf;Lorenz Kempf of Germany
-KimJunho;Kim Junho of South Korea
 KimJunghwan;Kim Junghwan of South Korea
+KimJunho;Kim Junho of South Korea
 KimKH;Kim Kyehwan of South Korea
 Kindler;Max Kindler of Germany
+Kirimlidis;Michalis Kirimlidis of Ireland
 Kisel;Siarhei Kisel of Belarus
 Klebes;Johannes Klebes of Germany
 Knez;Mateusz Knez of Poland
 Kokubo;Kokubo Mao of Japan
 Koniusz;Marcin Koniusz of Poland
+Korotnev;Stanislav Korotnev of Russia
 Kossuth;Balint Kossuth of Hungary
 Kostenko;Anatoliy Kostenko of Russia
 Kovalev;Nikolay Kovalev of Russia
@@ -103,6 +120,7 @@ Lam;Lam Hin Chung of Hong Kong
 Lambert;Maxence Lambert of France
 Lapkes;Dmitry Lapkes of Belarus
 Lee;Lee Jonghyun of South Korea
+LeeYH;Lee Yehun of South Korea
 Likhacheuski;Aliaksei Likhacheuski of Belarus
 Lillo;Gerardo Lillo of Spain
 Limbach;Nicolas Limbach of Germany
@@ -115,6 +133,7 @@ Lucchetti;Stefano Ivan Lucchetti of Argentina
 Lukashenko;Volodymyr Lukashenko of Ukraine
 MMoataz;Medhad Moataz of Egypt
 MNagy;Martin Nagy of Hungary
+MSzabo;Matyas Szabo of Germany
 Mackiewicz;Andrew Mackiewicz of USA
 Mamutov;Sherzod Mamutov of Uzbekistan
 Mandov;Ivan Mandov of Bulgaria
@@ -133,20 +152,27 @@ Motorin;Ilya Motorin of Russia
 Murolo;Massimiliano Murolo of Italy
 Nemcsik;Zsolt Nemcsik of Hungary
 Neri;Matteo Neri of Italy
+Nitu;Radu Nitu of Romania
+Nofal;Zeyad Nofal of Egypt
 Novikau;Artisiom Novikau of Belarus
 Nuccio;Riccardo Nuccio of Italy
 O'Connell;Alexander O'Connell of Great Britain
 Occhiuzzi;Diego Occhiuzzi of Italy
 Oh;Oh Sanguk of South Korea
+Olangua;Asier Olangua of Spain
 PNagy;Pal Nagy of Hungary
 Pakdaman;Ali Pakdaman of Iran
 Palacios;Mario Alberto Palacios Murillo
-Park;Park In of South Korea
+Park;Park Junseong of South Korea
+ParkJS;Park Junseong of South Korea
 Pastore;Giampero Pastore of Italy
+Pech;Milkos Pech of Hungary
 Pekelman;Bruno Pekelman of Brazil
 Pellegrini;Alberto Pellegrini of Italy
+Petrovskiy;Oleg Petrovskiy of Russia
 Pillet;Julien Pillet of France
 Pina;Jorge Pina of Spain
+Platonov;Bogdan Platonov of Ukraine
 Platonov;Bogdan Platonov of Ukraine
 Polossifakis;Joe Polossifakis of Canada
 Proskura;Nikita Proskura of Russia
@@ -164,7 +190,6 @@ Retchia;Vazha Retchia of Georgia
 Rodriguez;Abraham Rodriguez
 Romero;Eliecer Romero of Venezuela
 Rousset;Nicolas Rousset of France
-BBazadze;Beka Bazadze of Georgia
 SBazadze;Sandro Bazadze of Georgia
 SPatrice;Sebastien Patrice of France
 Samandi;Hichem Samandi of Tunisia
@@ -178,15 +203,17 @@ Schlaffer;Leon Schlaffer of Germany
 Schneider;Benno Schneider of Germany
 Schroedter;Robin Schroedter of Germany
 Seitz;Tom Seitz of France
-Shengelia;Nika Shengelia of Georgia
 Shachanin;Siarhei Shachanin of Belarus
 Shainberg;Jonah Shainberg of USA
+Shelekhov;Arseniy Shelekhov of Russia
+Shengelia;Nika Shengelia of Georgia
 Shimamura;Shimamura Tomohiro of Japan
 Shirshov;Vasiliy Shirshov of Russia
 Shturbabin;Oleg Shturbabin of Ukraine
 Singh;Karan Singh of India
 Skrodzki;Adam Skrodzki of Poland
 Souders;Pete Souders of USA
+Sovar;Marco Sovar of Romania
 Spear;Jeff Spear of USA
 Stanescu;Razvan Stanescu of Romania
 Statsenko;Oleksiy Statsenko of Ukraine
@@ -194,7 +221,6 @@ Stoychev;Todor Stoychev of Bulgaria
 Streets;Kaito Streets of Japan
 Sun;Sun Wei of China
 Sung;Sung Junmo of South Korea
-MSzabo;Matyas Szabo of Germany
 Szatmari;Andras Szatmari of Hungary
 Szilagyi;Aron Szilagyi of Hungary
 Tanaka;Shun Tanaka of Japan
@@ -208,9 +234,12 @@ Torchuk;Oleksandr Torchuk of Ukraine
 Trochez;Pablo Trochez of Colombia
 Trushakov;Alexander Trushakov of Russia
 Tsap;Yuriy Tsap of Ukraine
+Tse;Tse Hong Wang of Hong Kong
 Tsubo;Tsubo Hayato of Japan
 Turlybekov;Zhanserik Turlybekov of Kazakhstan
+Ursachi;Razvan Ursachi of Romania
 VanHolsbeke;Seppe Van Holsbeke of Belgium
+Wachsberger;Petr Wachsberger of The Czech Republic
 Wagner;Peter Wagner of Germany
 Webb;JJ Webb of Great Britain
 Willau;Mathias Willau of Austria
@@ -229,14 +258,8 @@ Zahedi;Nima Zahedi of Iran
 Zalomir;Florin Zalomir of Romania
 Zanin;Artem Zanin of Russia
 Zhong;Zhong Man of China
-Platonov;Bogdan Platonov of Ukraine
-Bravo;Inyaki Bravo of Spain
-Hoshino;Hoshino Kento of Japan
-Ursachi;Razvan Ursachi of Romania
-Bonsanto;Francesco Bonsanto of Italy
-Pech;Milkos Pech of Hungary
-Petrovskiy;Oleg Petrovskiy of Russia
 
+Abdullaeva;Jazmina Abdullaeva of Uzbeikstan
 Aoki;Aoki Chika of Japan
 Arpino;Giulia Arpino of Italy
 Au;Au Sin Ying of Hong Kong
@@ -284,6 +307,7 @@ Eifler;Larissa Eifler of Germany
 Emura;Eumra Misaki of Japan
 Erbil;Erbil Nisanur of Turkey
 Erbil;Nisanur Erbil of Turkey
+Erdagli;Yagmur Erdagli of Turkey
 FelixLara;Rossy Felix Lara of The Dominican Republic
 FoxGitomer;Chloe Fox-Gitomer of USA
 Fu;Fu Ying of China
@@ -303,6 +327,7 @@ Hampson;Sarah-Jane Hampson of Great Britain
 Hernandez;Elena Hernandez of Spain
 Hong;Hong Haeun of South Korea
 Hramova;Olga Hramova of Ukraine
+Huseynova;Zarifa Huseynova of Azerbaijan
 Hwang;Hwang Seona of South Korea
 Ilieva;Yoana Ilieva of Bulgaria
 Ismoilova;Sevinch Ismoilova of Uzbekistan
@@ -332,10 +357,13 @@ Kose;Fatma Zehra Kose of Turkey
 Kozaczuk;Malgorzata Kozaczuk of Poland
 Kravatska;Olena Kravatska of Ukraine
 Krueger;Lea Krueger of Germany
+Kuvaeva;Alexandra Kuvaeva of Georgia
+Kuzovaya;Ekaterina Kuzovaya of Russia
 Lam;Lam Hin Wai of Hong Kong
 Largaespada;Fatima Largaespada of Nicaragua
 Laszlo;Luca Laszlo of Hungary
 Lee;Lee Rajin of South Korea
+LeeYS;Lee Yunseo of South Korea
 Lembach;Charlotte Lembach of France
 Limbach;Anna Limbach of Germany
 Lucarini;Lucia Lucarini of Italy
@@ -347,16 +375,20 @@ Martis;Sabina Martis of Romania
 Marton;Anna Marton of Hungary
 Matuszak;Sylwia Matuszak of Poland
 Maxwell;Caitlin Maxwell of Great Britain
+Mihailova;Ana Mihailova of Bulgaria
 Mikhailova;Alina Mikhailova of Russia
 Mikulik;Julika Mikulik of Hungary
 Miller;Sky Miller of USA
 Montaser;Nour Montaser of Egypt
+Morenets;Valeriia Morenets-Kubanska of Ukraine
 Mormile;Chiara Mormile of Italy
 Moseyko;Alina Moseyko of Russia
 Muhammad;Ibti Muhammad of USA
 Mukae;Mukae Ayaka of Japan
 Navarria;Caterina Navarria of Italy
 Navarro;Araceli Navarro of Spain
+Neagu;Teodora Neagu of Romania
+Neikova;Emma Neikova of Bulgaria
 Neikova;Emma Neikova of Bulgaria
 Nguyen;Nguyen Thi Le Dung of Vietnam
 Nikitina;Olga Nikitina of Russia
@@ -368,7 +400,9 @@ Paizi;Marina Paizi of Greece
 Pascu;Bianca Pascu of Romania
 Passaro;Eloisa Passaro of Italy
 Pastran;Milagros Pastran of Venezuela
+Pastukhova;Alina Pastukhova of Russia
 Pekelman;Luana Pekelman of Brazil
+Perdibaeva;Gulistan Perdibaeva of Uzbekistan
 PerezCuenca;Celia Perez Cuenca of Spain
 PerezMaurice;Maria Belen Perez Maurice of Argentina
 Pliego;Paola Pliego of Uzbekistan
@@ -391,9 +425,11 @@ Rodriguez;Shia Rodriguez of Venezuela
 Rotili;Claudia Rotili of Italy
 Russo;Fran Russo of USA
 SRodriguez;Shia Rodriguez of Venezuela
+Salabai;Yulia Salabai of Russia
 Sarybay;Aigerim Sarybay of Kazakhstan
 Sasaki;Sasaki Haruna of Japan
 Seo;Seo Jiyeon of South Korea
+Serban;Denisa Serban of Romania
 Shao;Shao Yaqi of China
 Shchukla;Iryna Shchukla of Turkey
 Shelton;Aleksandra Shelton of USA
@@ -402,6 +438,7 @@ Sheveleva;Svetlana Sheveleva of Russia
 Shouman;Sara Shouman of Egypt
 Silva;Paula Silva of Chile
 SingletonComfort;Leanne Singleton-Comfort of USA
+Skarbonkiewicz;Magda Skarbonkiewicz of USA
 Smirnova;Anna Smirnova of Russiao
 Socha;Aleksandra Socha of Poland
 Stone;Eliza Stone of USA
@@ -435,6 +472,7 @@ Yang;Yang Hengyu of China
 Yang;ang Hengyu of China
 Yoon;Yoon Jisu of South Korea
 ZCieslar;Zuzanna Cieslar of Poland
+ZKim;Zoe Kim of USA
 Zagunis;Mariel Zagunis of USA
 Zahonyi;Petra Zahonyi of Hungary
 Zawodniak;Malgorzata Zawodniak Malgorzata of Poland
